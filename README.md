@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ak21081982
-- 👀 I’m interested in Python, SQL, JS, HTML, CSS, QA, QA_Automation
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, SQL, JS, JSON, HTML, CSS, QA_manual, QA_Automation
+- 🌱 I’m currently learning QA_Automation(Python) 
+- 💞️ I’m looking to collaborate on QA_Automatoin i/j (trainee possibly)
 - 📫 How to reach me ak21081982@gmail.com 
 
 <!---
